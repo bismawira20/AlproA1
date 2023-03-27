@@ -2,7 +2,7 @@
 /*Deskripsi : menampilkan jumlah deret prima sampai ke N untuk N>0 dengan sub-program fungsi*/
 /*Nama      : Bisma Wira Adi Wicaksono*/
 /*NIM       : 24060122140120*/
-/*Tanggal   : 25 Maret 2023*/
+/*Tanggal   : 26 Maret 2023*/
 
 
 #include <stdio.h>
